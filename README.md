@@ -8,4 +8,4 @@ Tech Stack used:
 1. React
 2. Material UI for some components
 
-After cloning the profile, please run #"npm start" to run the project.
+After cloning the profile, please run "npm start" to run the project.
